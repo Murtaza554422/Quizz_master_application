@@ -1,0 +1,11 @@
+streamlit
+langchain
+openai
+pypdf
+chromadb
+faiss-cpu
+tiktoken
+python-dotenv
+
+
+background: linear-gradient(135deg, #eef5ff 0%, #ffffff 100%);
